@@ -10,7 +10,7 @@ export default function HomePage() {
       </header>
 
       <main className={styles.hero} aria-labelledby="home-title">
-        <p className={styles.eyebrow}>достижения длинной в целую жизнь</p>
+        <p className={styles.eyebrow}>достижения длиной в целую жизнь</p>
         <h1 id="home-title" className={styles.title}>
           <span>Things worth</span>{' '}
           <span>doing in one life.</span>
