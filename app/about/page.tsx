@@ -49,8 +49,8 @@ export default function AboutPage() {
       </main>
 
       <footer className={styles.footer}>
-        <span>194 дел</span>
-        <span>17 легендарных достижений</span>
+        <span>191 дел</span>
+        <span>16 легендарных достижений</span>
       </footer>
     </div>
   );
